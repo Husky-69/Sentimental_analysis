@@ -81,4 +81,5 @@ Nevertheless, the visualizations offer **valuable business intelligence**:
 ---
 
 ### 📦 **Deployment**
-
+🔗 Try it live:
+👉 http://finalanalysis-env.eba-tikfepht.us-east-1.elasticbeanstalk.com/docs
