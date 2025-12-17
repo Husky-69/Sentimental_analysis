@@ -46,10 +46,23 @@ This project fulfills **Task 3: Natural Language Processing – Sentiment Analys
 - Achieved **47.32% agreement** between TextBlob predictions and human-labeled sentiment  
   > 📝 *Note: This is expected for a rule-based model on complex emotional labels.*
 
-### 4. **Visualization**
-- **Bar chart**: Sentiment distribution  
-- **Word clouds**: Most frequent words per sentiment  
-- **Time-series line plot**: Sentiment trends from 2010–2023
+## Visualizations
+
+### 1. Sentiment Distribution
+![Sentiment Bar Chart](sentiment_distribution.png)
+
+### 2. Word Clouds
+#### Positive Sentiment
+![Positive Word Cloud](wordcloud_positive.png)
+
+#### Negative Sentiment
+![Negative Word Cloud](wordcloud_negative.png)
+
+#### Neautral Sentiment
+![Neautral Word Cloud](wordcloud_neutral.png)
+
+### 3. Time-Series Trend
+![Sentiment Trend Line Plot](time_based_sentiment_analysis.png)
 
 ---
 
