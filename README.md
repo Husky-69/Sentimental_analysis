@@ -20,8 +20,6 @@ This project fulfills **Task 3: Natural Language Processing – Sentiment Analys
 - **Platforms**: Twitter, Instagram, Facebook  
 - **Features**: Text, Timestamp, User, Country, Hashtags, Engagement Metrics (Likes, Retweets)
 
-> 💡 *Fun fact: The dataset includes poetic, modern, and even teen-slang expressions—making it a rich testbed for sentiment models.*
-
 ---
 
 ## 🔧 Methodology
@@ -44,7 +42,6 @@ This project fulfills **Task 3: Natural Language Processing – Sentiment Analys
 ### 3. **Evaluation**
 - Mapped all 279 original emotion labels to 3 standard classes using a custom dictionary  
 - Achieved **47.32% agreement** between TextBlob predictions and human-labeled sentiment  
-  > 📝 *Note: This is expected for a rule-based model on complex emotional labels.*
 
 ## Visualizations
 
