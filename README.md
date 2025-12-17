@@ -93,3 +93,5 @@ Nevertheless, the visualizations offer **valuable business intelligence**:
 ### 📦 **Deployment**
 🔗 Try it live:
 👉 http://finalanalysis-env.eba-tikfepht.us-east-1.elasticbeanstalk.com/docs
+
+Non-tech demo: https://v0-flask-app-deployment-three.vercel.app/
