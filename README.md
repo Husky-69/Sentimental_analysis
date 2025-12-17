@@ -1,5 +1,5 @@
 # 🌐 Sentiment Analysis on Social Media Data  
-### *Codveda Internship – Level 3 (Advanced) NLP Task*  
+### *Codveda Internship - NLP Task*  
 **By Shallom Githui**  
 
 ---
